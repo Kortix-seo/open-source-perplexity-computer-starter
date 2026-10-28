@@ -22,7 +22,7 @@ Each competitor row reflects that project's own repository or product page, chec
 1. The company is one git repo. Agents, skills, memory, connector config and triggers are files you own, so you can grep the whole company, diff any change and roll any part of it back.
 2. Every tool the company runs on. 3,000+ apps plus any MCP, OpenAPI, GraphQL or HTTP API. Credentials are brokered server-side and never enter the machine, with allow, ask or block rules per tool call.
 3. Any model, your keys. Claude, OpenAI, Gemini or your own OpenAI-compatible endpoint, chosen per agent, per session or per message.
-4. A real agent harness powered by OpenCode. Planning, tool use and multi-step runs that finish, with permissions per tool down to a single command.
+4. A real agent harness, open source and yours to extend. Planning, tool use and multi-step runs that finish, with permissions per tool down to a single command. Every new session runs pi, an open-source (MIT) agent harness.
 5. Every session gets its own computer. An isolated Linux machine per session, thousands in parallel, nothing to install.
 6. One gate to land work. Start agents from web, Slack, Teams, email, mobile, CLI, API, cron or webhooks, and the work lands as a change request a human reads as a diff.
 
