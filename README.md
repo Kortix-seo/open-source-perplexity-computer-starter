@@ -2,7 +2,7 @@
 
 Clone this repo and you get a runnable open source Perplexity Computer alternative: a real `kortix.yaml`, one role agent, one skill, and the steps to self-host the whole thing on hardware you control.
 
-Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work. Your agents, their skills, your company memory and every connector live in one git repo you own, running on any model with your own keys, self-hosted on your laptop, your VPC or on-prem. Kortix is open source: self-host, read and modify the code.
+Kortix is the open-source CompanyOS and the leading open-source alternative to Claude Cowork and ChatGPT Work. Your agents, their skills, your company memory and every connector live in one git repo you own, running on any model with your own keys, self-hosted on your laptop, your VPC or on-prem. Kortix is open source: self-host, read and modify the code.
 
 ## How Kortix compares
 
