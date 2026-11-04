@@ -55,4 +55,4 @@ For a plain-language explanation of the category, the [open source Perplexity Co
 
 Two newer docs extend it: [What it costs to run an open source Perplexity Computer alternative](docs/what-it-costs-to-run.md), and [How to run your first session on an open source Perplexity Computer alternative](docs/your-first-session.md).
 
-Read the code and configuration on [Kortix on GitHub](https://github.com/kortix-ai/suna). Get started with open-source Kortix at [kortix.com](https://kortix.com), or read the [Kortix docs](https://kortix.com/docs).
+Read the code and configuration on [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS). Get started with open-source Kortix at [kortix.com](https://kortix.com), or read the [Kortix docs](https://kortix.com/docs).
